@@ -5,27 +5,27 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
         <meta name="keywords" content="">
-		<title>Mono - Coming Soon 5</title>
+		<title>Aporajita Mustafa</title>
 		<!-- Favicon -->
-        <link href="../assets/images/favicon.png" rel="shortcut icon">
+        <link href="/assets/images/favicon.png" rel="shortcut icon">
 		<!-- CSS -->
-		<link href="../assets/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
-		<link href="../assets/plugins/owl-carousel/owl.carousel.min.css" rel="stylesheet">
-		<link href="../assets/plugins/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
-		<link href="../assets/plugins/magnific-popup/magnific-popup.min.css" rel="stylesheet">
-		<link href="../assets/plugins/sal/sal.min.css" rel="stylesheet">
-		<link href="../assets/css/theme.css" rel="stylesheet">
+		<link href="/assets/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+		<link href="/assets/plugins/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+		<link href="/assets/plugins/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
+		<link href="/assets/plugins/magnific-popup/magnific-popup.min.css" rel="stylesheet">
+		<link href="/assets/plugins/sal/sal.min.css" rel="stylesheet">
+		<link href="/assets/css/theme.css" rel="stylesheet">
 		<!-- Fonts/Icons -->
-		<link href="../assets/plugins/font-awesome/css/all.css" rel="stylesheet">
-		<link href="../assets/plugins/themify/themify-icons.min.css" rel="stylesheet">
-		<link href="../assets/plugins/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+		<link href="/assets/plugins/font-awesome/css/all.css" rel="stylesheet">
+		<link href="/assets/plugins/themify/themify-icons.min.css" rel="stylesheet">
+		<link href="/assets/plugins/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 	</head>
 	<body data-preloader="1">
 
 		<div class="section-fullscreen">
 			<div class="container">
 				<div class="position-top">
-					<h4><a href="#">mono</a></h4>
+					<h4><a href="#">Aporajita Mustafa</a></h4>
 				</div><!-- end position-top -->
 				<div class="position-middle">
 					<h1 class="display-2 font-weight-bold">Coming Soon</h1>
@@ -42,10 +42,10 @@
 		</div>
 
 		<!-- ***** JAVASCRIPTS ***** -->
-		<script src="../assets/plugins/jquery.min.js"></script>
+		<script src="/assets/plugins/jquery.min.js"></script>
 		<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
 		<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
-		<script src="../assets/plugins/plugins.js"></script>
-		<script src="../assets/js/functions.js"></script>
+		<script src="/assets/plugins/plugins.js"></script>
+		<script src="/assets/js/functions.js"></script>
 	</body>
 </html>
